@@ -5,15 +5,17 @@
 본 프로젝트는 **성균관대학교 X 한국정보과학회 주관 딥페이크 경진대회** 출품작입니다.  
 팀명: `교수님제주도에서는차긁으시면안됩니다`
 
+---
+
 ![Model Logic](./assets/logic.png)
 
 ---
 
-## 경진대회 최종 제출물
+## 🏆 경진대회 최종 제출물
 **결과 보고서, 딥페이크 영상, CSV 파일**
-  - [**Dropbox**](https://www.dropbox.com/scl/fo/gk62g964fwpqehil8dtr1/AC6wZi1NHsU9ZVP_tIF3ARU?rlkey=dium1k0z2k7zfa71s0vizxod4&st=d7e463ic&dl=0)
+  - 📁 [**Dropbox**](https://www.dropbox.com/scl/fo/gk62g964fwpqehil8dtr1/AC6wZi1NHsU9ZVP_tIF3ARU?rlkey=dium1k0z2k7zfa71s0vizxod4&st=d7e463ic&dl=0)
 
-  - [**Google Drive**](https://drive.google.com/drive/folders/1FtjevDcXHJSRE3p9-ccUxFjRkmXG5hD2?usp=sharing)
+  - 📁 [**Google Drive**](https://drive.google.com/drive/folders/1FtjevDcXHJSRE3p9-ccUxFjRkmXG5hD2?usp=sharing)
 
 ---
 
