@@ -1,10 +1,20 @@
 # deepfake-4parts-model
 
-## 성균관대학교X한국정보과학회 딥페이크 경진대회
-
-> 여러 사람의 얼굴 부위(얼굴, 눈, 코, 입) 파츠를 추출 후, 새로운 얼굴을 구성하여 타깃 영상 속 얼굴을 교체하는 모듈형 딥페이크 생성 파이프라인
-
 ![Model Logic](./assets/logic.png)
+
+## 🎓 성균관대학교 X 한국정보과학회 딥페이크 경진대회
+
+본 프로젝트는 **성균관대학교 X 한국정보과학회 주관 딥페이크 경진대회** 출품작입니다.  
+팀명: `교수님제주도에서는차긁으시면안됩니다`
+
+---
+
+## 경진대회 최종 제출물
+**결과 보고서, 딥페이크 영상, CSV 파일**
+  [**Dropbox**](https://www.dropbox.com/scl/fo/gk62g964fwpqehil8dtr1/AC6wZi1NHsU9ZVP_tIF3ARU?rlkey=dium1k0z2k7zfa71s0vizxod4&st=d7e463ic&dl=0)
+
+
+  [**Google Drive**](https://drive.google.com/drive/folders/1FtjevDcXHJSRE3p9-ccUxFjRkmXG5hD2?usp=sharing)
 
 ---
 
@@ -18,7 +28,9 @@
 
 ## 📂 데이터셋
 
-아래 Kaggle 대회의 환경에서 제공하는 데이터셋입니다:  
+본 리포지토리의 코드는 **Kaggle 기준**에서 제공된  
+`Deepfake Detection and Generation Challenge - RED_TEAM` 데이터셋을 기반으로 작성되었습니다.
+
 [🔗 Deepfake Detection and Generation Challenge (Red Team) – Kaggle](https://www.kaggle.com/competitions/Deepfake_Detection_and_Generation_Challenge_Red_Team)
 
 해당 데이터는 **FaceForensics++ Dataset** 기반으로 제작되었으며,  
